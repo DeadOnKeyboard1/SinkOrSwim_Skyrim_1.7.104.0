@@ -1,4 +1,4 @@
-# Sink Or Swim - Skyrim 1.7.104.0 (SKSE 2.3.1) Port
+﻿# Sink Or Swim - Skyrim 1.7.104.0 (SKSE 2.3.1) Port
 
 Native SKSE plugin port of **Sink Or Swim** for **The Elder Scrolls V: Skyrim Special Edition / Anniversary Edition (Runtime 1.7.104.0)** and **SKSE 2.3.1**.
 
@@ -72,7 +72,34 @@ The compiled plugin and debug symbols will be output to:
 
 ## Credits & License
 
-- Original mod concept and code by **Loki** ([LokiWasHere](https://www.nexusmods.com/skyrimspecialedition/users/60161421)).
-- Original project license: MIT License (see [LICENSE.txt](LICENSE.txt)).
-- Port to Skyrim 1.7.104.0: MIT License.
-- CommonLibSSE-NG: MIT License by Ryan McKenzie / alandtse (see [licenses/CommonLibSSE-NG/LICENSE-MIT.txt](licenses/CommonLibSSE-NG/LICENSE-MIT.txt)).
+- Original mod concept and source code by **Loki** ([LokiWasHere](https://www.nexusmods.com/skyrimspecialedition/users/60161421)).
+- Skyrim 1.7.104.0 compatibility update by **DeadOnKeyboard1**.
+
+### License
+
+This Skyrim 1.7.104.0 compatibility build is distributed under the
+**GNU General Public License v3.0 or later (GPL-3.0-or-later)**.
+
+This build uses and statically links against **CommonLibSSE-NG 8.0.0**,
+revision:
+
+`1504349dddfc622d4d25704bba19e2ade669dc5a`
+
+CommonLibSSE-NG 8.0.0 is distributed under **GPL-3.0-or-later**
+with its applicable Modding Exception and GPL-3.0 Linking Exception.
+
+The original **Sink Or Swim** source code by Loki was released under
+the **MIT License**. The original copyright and MIT license notice are
+preserved in:
+
+`licenses/SinkOrSwim-MIT.txt`
+
+CommonLibSSE-NG licensing files:
+
+- `licenses/CommonLibSSE-NG/COPYING.txt`
+- `licenses/CommonLibSSE-NG/EXCEPTIONS.md`
+- `licenses/CommonLibSSE-NG/LICENSE-MIT.txt`
+
+Additional third-party license notices are available under:
+
+`licenses/third-party/`
