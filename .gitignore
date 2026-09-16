@@ -1,0 +1,28 @@
+# Build & Packaging directories
+build/
+bin/
+dist/
+out/
+
+# Visual Studio / MSVC
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# Archives & Temporary files
+*.rar
+*.zip
+*.7z
+*.tar.gz
+*.log
+*.tmp
+*.bak
+
+# Clang / IDE
+.cache/
+.vscode/
+compile_commands.json

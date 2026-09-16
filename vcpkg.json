@@ -1,0 +1,11 @@
+{
+  "name": "sinkorswim",
+  "version-string": "1.0.0",
+  "description": "Sink Or Swim ported for Skyrim SE/AE 1.7.104.0 (SKSE 2.3.1)",
+  "homepage": "https://www.nexusmods.com/skyrimspecialedition/mods/42962",
+  "license": "MIT",
+  "dependencies": [
+    "spdlog",
+    "xbyak"
+  ]
+}
